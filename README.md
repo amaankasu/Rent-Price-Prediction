@@ -1,1 +1,1 @@
-## Nvidia Stock Price Prediction
+## Rent Price Prediction
